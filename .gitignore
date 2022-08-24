@@ -1,0 +1,11 @@
+go.sum
+hello-go
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
